@@ -116,3 +116,62 @@ p {
     background-color: #2a607c;
     color: #fff;
 }
+
+.caracteristics {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2a607c;
+}
+
+.caracteristics-profile {
+    margin-bottom: 32px;
+    color: #fff;
+}
+
+.caracteristics-skills {
+    margin-bottom: 32px;
+    color: #fff;
+}
+
+.caracteristics-education {
+    margin-bottom: 32px;
+    color: #fff;
+}
+
+.caracteristics-profile h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.caracteristics-skills h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.caracteristics-education h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.caracteristics-profile img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.caracteristics-skills img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.caracteristics-education img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
