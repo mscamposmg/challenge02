@@ -23,7 +23,6 @@ body {
 }
 
 .header div {
-    display: flex;
     padding-top: 15px;
     margin-right: 20px;
     float: right;
