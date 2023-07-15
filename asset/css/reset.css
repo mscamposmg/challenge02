@@ -1,5 +1,5 @@
-* {
-    margin: 0;
+*{
+    margin: auto;
     padding: 0;
     box-sizing: border-box;
   }
@@ -29,5 +29,6 @@
   }
   
   ol, ul {
-    list-style: none;
+    list-style:none;
+    text-align: left;
   }
