@@ -76,9 +76,11 @@ p {
 
 .content {
     width: 75%;
-    display: inline-flexbox;
-    /*display: inline-block;*/
-    margin-left: 20px;
+    display:inline-flex;
+    margin-left: 40px;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 
 .profile {
@@ -124,8 +126,12 @@ p {
 }
 
 .caracteristics {
-    margin-right: 20px;
-    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-right: 40px;
+    padding: 50px;
     clear: both;
     float: right;
     width: 20%;
