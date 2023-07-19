@@ -200,3 +200,17 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+footer {
+    position: relative;
+    padding-bottom: 3%;
+    margin-top: 10px;
+    bottom: 0;
+    border-bottom: 10px solid #4F4846;
+    text-align: center;
+    color: #FDF8F5;
+    height: 50px;
+    width: 100%;
+    line-height: 60px;
+    background-color: #2a607c;   
+  }
